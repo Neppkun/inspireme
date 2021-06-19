@@ -1,0 +1,7 @@
+{
+  "name": "Inspire",
+  "version": "1.0.0",
+  "description": "Sends a random quote from InspiroBot.me in chat.",
+  "author": "Neppkun#0030",
+  "license": "MIT"
+}
